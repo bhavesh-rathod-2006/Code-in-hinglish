@@ -1,4 +1,5 @@
-# Code-in-hinglish
+# Code-in-hinglish (By CodingGita)
+
 #### The purpose of this repository is to understand HTML in the easy language.
 
 ##### This Repository Provides
