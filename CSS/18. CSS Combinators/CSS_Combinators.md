@@ -1,4 +1,4 @@
-````md
+
 # CSS Combinators Guide
 
 ## Introduction
@@ -252,4 +252,4 @@ button ~ a {
 - **Performance**: Combinators excessive classes ki zaroorat ko kam karte hain, jisse CSS zyada efficient ban sakti hai.
 - **Browser Support**: Sabhi combinators modern browsers mein supported hain.
 - **Accessibility**: Ensure karein ki combinators ke through apply ki gayi styling screen readers ke liye content ka logical flow maintain kare.
-````
+
